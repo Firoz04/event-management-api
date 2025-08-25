@@ -1,4 +1,3 @@
-// controllers/eventController.js
 const Event = require('../models/event');
 const { validationResult } = require('express-validator');
 
